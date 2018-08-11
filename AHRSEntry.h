@@ -1,0 +1,1 @@
+void SmCare_AHRS_Entry(double *p, int init);

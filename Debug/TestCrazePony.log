@@ -1,0 +1,7 @@
+﻿  MainEntry.cpp
+d:\wan_project\forzhjkproject\program\c++program\crazepony\testcrazepony\testcrazepony\imu.h : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+d:\wan_project\forzhjkproject\program\c++program\crazepony\testcrazepony\testcrazepony\mainentry.cpp(36): warning C4101: “c”: 未引用的局部变量
+d:\wan_project\forzhjkproject\program\c++program\crazepony\testcrazepony\testcrazepony\mainentry.cpp(32): warning C4101: “err”: 未引用的局部变量
+d:\wan_project\forzhjkproject\program\c++program\crazepony\testcrazepony\testcrazepony\mainentry.cpp(39): warning C4101: “buffer”: 未引用的局部变量
+  TestCrazePony.vcxproj -> D:\Wan_Project\ForZHJKProject\Program\C++Program\crazepony\TestCrazePony\Debug\TestCrazePony.exe
+  TestCrazePony.vcxproj -> D:\Wan_Project\ForZHJKProject\Program\C++Program\crazepony\TestCrazePony\Debug\TestCrazePony.pdb (Full PDB)
